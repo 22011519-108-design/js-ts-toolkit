@@ -1,0 +1,17 @@
+{
+  "name": "js-ts-toolkit",
+  "version": "1.0.0",
+  "description": "A small utility toolkit created using Modern JavaScript and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "run-js": "node js/toolkit.js",
+    "build-ts": "tsc",
+    "run-ts": "node ts/toolkit.js"
+  },
+  "keywords": [],
+  "author": "Alishba ",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
